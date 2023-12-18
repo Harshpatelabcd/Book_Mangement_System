@@ -1,0 +1,10 @@
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\bin\Debug\netstandard2.0\Kitabe2ML.Model.deps.json
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\bin\Debug\netstandard2.0\Kitabe2ML.Model.dll
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\bin\Debug\netstandard2.0\Kitabe2ML.Model.pdb
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.csprojAssemblyReference.cache
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.AssemblyInfoInputs.cache
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.AssemblyInfo.cs
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.dll
+C:\Users\HARSH\source\repos\Kitabe2\Kitabe2ML.Model\obj\Debug\netstandard2.0\Kitabe2ML.Model.pdb
