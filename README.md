@@ -4,3 +4,6 @@
 2. Bulk data entry (CSV file)
 3. Reviews and ratings
 4. Advance searching
+
+UI Design:
+
