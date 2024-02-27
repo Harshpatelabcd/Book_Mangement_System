@@ -17,28 +17,6 @@ Matrix Factorization: It is used to identify the relationship between books’ a
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/e1dba2f7-6999-412a-8de4-03d30759d616)
 
 
-UI Design:
-1. User Homepage
-
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/11e766a1-cb71-4567-9223-98e6926c7fc6)
-
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/ccd166bd-0132-420a-8656-209a0de99d3c)
-
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/18eba7e2-74e0-4fac-a944-017eeff10e2c)
-
-
-
-2. Admin Homepage
-
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/85573f5e-33fa-4440-9b7a-5e261f9b6e7f)
-
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/6cb684db-e06e-45c9-ae8c-46de43046578)
-
-
-
-
-
-
 
 
 
