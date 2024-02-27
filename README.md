@@ -24,12 +24,18 @@ UI Design:
 
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/4073a902-5c67-4a2f-92e0-2580f216a298)
 
+![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/ccd166bd-0132-420a-8656-209a0de99d3c)
+
+![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/18eba7e2-74e0-4fac-a944-017eeff10e2c)
+
+
 
 2. Admin Homepage
 
+![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/85573f5e-33fa-4440-9b7a-5e261f9b6e7f)
+
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/6cb684db-e06e-45c9-ae8c-46de43046578)
 
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/d019dd3b-0aa9-4717-93a3-8bace4f723da)
 
 
 
