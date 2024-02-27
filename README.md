@@ -22,8 +22,6 @@ UI Design:
 
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/11e766a1-cb71-4567-9223-98e6926c7fc6)
 
-![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/4073a902-5c67-4a2f-92e0-2580f216a298)
-
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/ccd166bd-0132-420a-8656-209a0de99d3c)
 
 ![image](https://github.com/Harshpatelabcd/Book_Mangement_System/assets/73551662/18eba7e2-74e0-4fac-a944-017eeff10e2c)
